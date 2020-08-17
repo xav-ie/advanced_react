@@ -1,0 +1,10 @@
+{
+  "name": "advanced_react",
+  "version": "1.0.0",
+  "description": "A react app I am building as part of a PluralSight course",
+  "main": "lib/server.js",
+  "repository": "https://github.com/xav-ie/advanced_react",
+  "author": "Xavier Ruiz",
+  "license": "MIT",
+  "private": false
+}
